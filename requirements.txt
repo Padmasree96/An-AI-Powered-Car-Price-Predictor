@@ -1,0 +1,7 @@
+A list of Python packages used in this project:
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
